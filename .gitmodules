@@ -1,0 +1,3 @@
+[submodule "themes/lannisport"]
+	path = themes/lannisport
+	url = git@github.com:siovene/lannisport.git

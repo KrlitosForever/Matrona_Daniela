@@ -37,3 +37,5 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 OUTPUT_PATH = 'docs/'
+
+THEME = 'themes/lannisport'
